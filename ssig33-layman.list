@@ -1,0 +1,6 @@
+<layman>
+<overlay type="git" src="git://github.com/ssig33/ssig33-layman.git" name="ssig33-layman" contact="mail@ssig33.com">
+<link>https://github.com/ssig33/ssig33-layman</link>
+<description>An overlay of custom ebuilds I use all the time.</description>
+</overlay>
+</layman>

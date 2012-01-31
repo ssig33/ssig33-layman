@@ -1,0 +1,4 @@
+To add this overlay to layman:
+
+layman -f -o https://github.com/ssig33/ssig33-layman/raw/master/ssig33-layman.list -a ssig33-layman
+
